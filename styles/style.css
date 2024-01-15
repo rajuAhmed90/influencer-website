@@ -121,12 +121,12 @@ nav a {
     display: grid;
     grid-gap: 20px;
     grid-template-columns: repeat(3, 1fr);
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .single-product{
     padding: 10px;
-    border: 1px solid tomato;
+    /* border: 1px solid tomato; */
     width: 350px;
 }
 
